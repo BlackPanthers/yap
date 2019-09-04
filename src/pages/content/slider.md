@@ -1,7 +1,8 @@
 ---
 image:
   - description: Yap members interacting
-    image: /img/ds7_6822.jpg
+    image: >-
+      https://raw.githubusercontent.com/BlackPanthers/yap/master/static/img/about-banner.jpg
   - description: Yap Competition
     image: /img/ds7_6972-1-.jpg
   - description: Chatting
