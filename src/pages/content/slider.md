@@ -1,6 +1,6 @@
 ---
 image:
-  - description: Yap members interacting
+  - description: 'Yap members interacting '
     image: >-
       https://raw.githubusercontent.com/BlackPanthers/yap/master/static/img/about-banner.jpg
   - description: Yap Competition
